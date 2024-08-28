@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=myicon.ico autoEdge.py

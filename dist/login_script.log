@@ -1,0 +1,1689 @@
+2024-08-23 17:28:12,006 - ERROR - Config file config.ini not found.
+2024-08-23 17:28:37,401 - INFO - Starting login process
+2024-08-23 17:28:46,858 - INFO - login failed
+2024-08-23 17:38:53,042 - INFO - Starting login process
+2024-08-23 17:39:00,303 - INFO - login failed
+2024-08-23 17:49:06,486 - INFO - Starting login process
+2024-08-23 17:49:14,634 - INFO - login failed
+2024-08-23 17:59:20,792 - INFO - Starting login process
+2024-08-23 17:59:28,542 - INFO - login failed
+2024-08-23 18:09:34,752 - INFO - Starting login process
+2024-08-23 18:09:42,016 - INFO - login failed
+2024-08-23 18:19:48,216 - INFO - Starting login process
+2024-08-23 18:19:55,341 - INFO - login failed
+2024-08-23 18:30:01,541 - INFO - Starting login process
+2024-08-23 18:30:09,554 - INFO - login failed
+2024-08-23 18:40:15,747 - INFO - Starting login process
+2024-08-23 18:40:23,033 - INFO - login failed
+2024-08-23 18:50:29,239 - INFO - Starting login process
+2024-08-23 18:50:36,468 - INFO - login failed
+2024-08-23 19:00:42,666 - INFO - Starting login process
+2024-08-23 19:00:49,901 - INFO - login failed
+2024-08-23 19:10:56,094 - INFO - Starting login process
+2024-08-23 19:11:03,555 - INFO - login failed
+2024-08-23 19:21:09,784 - INFO - Starting login process
+2024-08-23 19:21:17,423 - INFO - login failed
+2024-08-23 19:31:23,609 - INFO - Starting login process
+2024-08-23 19:31:32,201 - INFO - login failed
+2024-08-23 19:41:38,404 - INFO - Starting login process
+2024-08-23 19:41:45,505 - INFO - login failed
+2024-08-23 19:51:51,709 - INFO - Starting login process
+2024-08-23 19:51:58,979 - INFO - login failed
+2024-08-23 20:02:05,194 - INFO - Starting login process
+2024-08-23 20:02:12,462 - INFO - login failed
+2024-08-23 20:12:18,645 - INFO - Starting login process
+2024-08-23 20:12:25,888 - INFO - login failed
+2024-08-23 20:22:32,101 - INFO - Starting login process
+2024-08-23 20:22:39,307 - INFO - login failed
+2024-08-23 20:32:45,507 - INFO - Starting login process
+2024-08-23 20:32:54,565 - INFO - login failed
+2024-08-23 20:43:00,755 - INFO - Starting login process
+2024-08-23 20:43:08,029 - INFO - login failed
+2024-08-23 20:53:14,192 - INFO - Starting login process
+2024-08-23 20:53:21,556 - INFO - login failed
+2024-08-23 21:03:27,715 - INFO - Starting login process
+2024-08-23 21:03:34,961 - INFO - login failed
+2024-08-23 21:13:41,123 - INFO - Starting login process
+2024-08-23 21:13:48,278 - INFO - login failed
+2024-08-23 21:23:54,482 - INFO - Starting login process
+2024-08-23 21:24:01,667 - INFO - login failed
+2024-08-23 21:34:07,876 - INFO - Starting login process
+2024-08-23 21:34:16,653 - INFO - login failed
+2024-08-23 21:44:22,837 - INFO - Starting login process
+2024-08-23 21:44:30,068 - INFO - login failed
+2024-08-23 21:54:36,238 - INFO - Starting login process
+2024-08-23 21:54:43,562 - INFO - login failed
+2024-08-23 22:04:49,757 - INFO - Starting login process
+2024-08-23 22:04:56,893 - INFO - login failed
+2024-08-23 22:15:03,065 - INFO - Starting login process
+2024-08-23 22:15:10,244 - INFO - login failed
+2024-08-23 22:25:16,440 - INFO - Starting login process
+2024-08-23 22:25:23,517 - INFO - login failed
+2024-08-23 22:35:29,722 - INFO - Starting login process
+2024-08-23 22:35:39,597 - INFO - login failed
+2024-08-23 22:45:45,798 - INFO - Starting login process
+2024-08-23 22:45:53,003 - INFO - login failed
+2024-08-23 22:55:59,198 - INFO - Starting login process
+2024-08-23 22:56:06,353 - INFO - login failed
+2024-08-23 23:06:12,556 - INFO - Starting login process
+2024-08-23 23:06:20,182 - INFO - login failed
+2024-08-23 23:16:26,390 - INFO - Starting login process
+2024-08-23 23:16:33,499 - INFO - login failed
+2024-08-23 23:26:39,710 - INFO - Starting login process
+2024-08-23 23:26:46,732 - INFO - login failed
+2024-08-23 23:36:52,943 - INFO - Starting login process
+2024-08-23 23:37:01,313 - INFO - login failed
+2024-08-23 23:47:07,503 - INFO - Starting login process
+2024-08-23 23:47:14,660 - INFO - login failed
+2024-08-23 23:57:20,862 - INFO - Starting login process
+2024-08-23 23:57:28,074 - INFO - login failed
+2024-08-24 00:07:34,272 - INFO - Starting login process
+2024-08-24 00:07:41,405 - INFO - login failed
+2024-08-24 00:17:47,591 - INFO - Starting login process
+2024-08-24 00:17:54,913 - INFO - login failed
+2024-08-24 00:28:01,134 - INFO - Starting login process
+2024-08-24 00:28:08,233 - INFO - login failed
+2024-08-24 00:38:14,450 - INFO - Starting login process
+2024-08-24 00:38:23,357 - INFO - login failed
+2024-08-24 00:48:29,548 - INFO - Starting login process
+2024-08-24 00:48:37,004 - INFO - login failed
+2024-08-24 00:58:43,206 - INFO - Starting login process
+2024-08-24 00:58:50,332 - INFO - login failed
+2024-08-24 01:08:56,537 - INFO - Starting login process
+2024-08-24 01:09:03,756 - INFO - login failed
+2024-08-24 01:19:09,935 - INFO - Starting login process
+2024-08-24 01:19:17,451 - INFO - login failed
+2024-08-24 01:29:23,671 - INFO - Starting login process
+2024-08-24 01:29:31,101 - INFO - login failed
+2024-08-24 01:39:37,298 - INFO - Starting login process
+2024-08-24 01:39:44,920 - INFO - login failed
+2024-08-24 01:49:51,138 - INFO - Starting login process
+2024-08-24 01:49:58,546 - INFO - login failed
+2024-08-24 02:00:04,736 - INFO - Starting login process
+2024-08-24 02:00:12,002 - INFO - login failed
+2024-08-24 02:10:18,204 - INFO - Starting login process
+2024-08-24 02:10:25,385 - INFO - login failed
+2024-08-24 02:20:31,595 - INFO - Starting login process
+2024-08-24 02:20:38,725 - INFO - login failed
+2024-08-24 02:30:44,904 - INFO - Starting login process
+2024-08-24 02:30:52,028 - INFO - login failed
+2024-08-24 02:40:58,233 - INFO - Starting login process
+2024-08-24 02:41:06,238 - INFO - login failed
+2024-08-24 02:51:12,410 - INFO - Starting login process
+2024-08-24 02:51:20,305 - INFO - login failed
+2024-08-24 03:01:26,520 - INFO - Starting login process
+2024-08-24 03:01:34,010 - INFO - login failed
+2024-08-24 03:11:40,236 - INFO - Starting login process
+2024-08-24 03:11:47,487 - INFO - login failed
+2024-08-24 03:21:53,683 - INFO - Starting login process
+2024-08-24 03:22:01,271 - INFO - login failed
+2024-08-24 03:32:07,466 - INFO - Starting login process
+2024-08-24 03:32:14,771 - INFO - login failed
+2024-08-24 03:42:20,969 - INFO - Starting login process
+2024-08-24 03:42:29,182 - INFO - login failed
+2024-08-24 03:52:35,411 - INFO - Starting login process
+2024-08-24 03:52:42,489 - INFO - login failed
+2024-08-24 04:02:48,693 - INFO - Starting login process
+2024-08-24 04:02:55,789 - INFO - login failed
+2024-08-24 04:13:01,970 - INFO - Starting login process
+2024-08-24 04:13:09,204 - INFO - login failed
+2024-08-24 04:23:15,424 - INFO - Starting login process
+2024-08-24 04:23:22,482 - INFO - login failed
+2024-08-24 04:33:28,683 - INFO - Starting login process
+2024-08-24 04:33:36,148 - INFO - login failed
+2024-08-24 04:43:42,302 - INFO - Starting login process
+2024-08-24 04:43:50,320 - INFO - login failed
+2024-08-24 04:53:56,494 - INFO - Starting login process
+2024-08-24 04:54:03,623 - INFO - login failed
+2024-08-24 05:04:09,787 - INFO - Starting login process
+2024-08-24 05:04:16,956 - INFO - login failed
+2024-08-24 05:14:23,175 - INFO - Starting login process
+2024-08-24 05:14:30,265 - INFO - login failed
+2024-08-24 05:24:36,495 - INFO - Starting login process
+2024-08-24 05:24:43,592 - INFO - login failed
+2024-08-24 05:34:49,787 - INFO - Starting login process
+2024-08-24 05:34:56,950 - INFO - login failed
+2024-08-24 05:45:03,134 - INFO - Starting login process
+2024-08-24 05:45:11,251 - INFO - login failed
+2024-08-24 05:55:17,461 - INFO - Starting login process
+2024-08-24 05:55:24,674 - INFO - login failed
+2024-08-24 06:05:30,855 - INFO - Starting login process
+2024-08-24 06:05:38,138 - INFO - login failed
+2024-08-24 06:15:44,338 - INFO - Starting login process
+2024-08-24 06:15:51,540 - INFO - login failed
+2024-08-24 06:25:57,736 - INFO - Starting login process
+2024-08-24 06:26:04,793 - INFO - login failed
+2024-08-24 06:36:10,987 - INFO - Starting login process
+2024-08-24 06:36:18,811 - INFO - login failed
+2024-08-24 06:46:25,013 - INFO - Starting login process
+2024-08-24 06:46:33,859 - INFO - login failed
+2024-08-24 06:56:40,068 - INFO - Starting login process
+2024-08-24 06:56:47,403 - INFO - login failed
+2024-08-24 07:06:53,608 - INFO - Starting login process
+2024-08-24 07:07:00,748 - INFO - login failed
+2024-08-24 07:17:06,969 - INFO - Starting login process
+2024-08-24 07:17:14,068 - INFO - login failed
+2024-08-24 07:27:20,259 - INFO - Starting login process
+2024-08-24 07:27:27,778 - INFO - login failed
+2024-08-24 07:37:33,974 - INFO - Starting login process
+2024-08-24 07:37:41,033 - INFO - login failed
+2024-08-24 07:47:47,221 - INFO - Starting login process
+2024-08-24 07:47:55,381 - INFO - login failed
+2024-08-24 07:58:01,583 - INFO - Starting login process
+2024-08-24 07:58:08,749 - INFO - login failed
+2024-08-24 08:08:14,923 - INFO - Starting login process
+2024-08-24 08:08:21,995 - INFO - login failed
+2024-08-24 08:18:28,174 - INFO - Starting login process
+2024-08-24 08:18:35,264 - INFO - login failed
+2024-08-24 08:28:41,448 - INFO - Starting login process
+2024-08-24 08:28:48,570 - INFO - login failed
+2024-08-24 08:38:54,727 - INFO - Starting login process
+2024-08-24 08:39:01,935 - INFO - login failed
+2024-08-24 08:49:08,116 - INFO - Starting login process
+2024-08-24 08:49:16,112 - INFO - login failed
+2024-08-24 08:59:22,314 - INFO - Starting login process
+2024-08-24 08:59:29,977 - INFO - login failed
+2024-08-24 09:09:36,188 - INFO - Starting login process
+2024-08-24 09:09:43,936 - INFO - login failed
+2024-08-24 09:19:50,136 - INFO - Starting login process
+2024-08-24 09:19:57,343 - INFO - login failed
+2024-08-24 09:30:03,560 - INFO - Starting login process
+2024-08-24 09:30:11,127 - INFO - login failed
+2024-08-24 09:40:17,340 - INFO - Starting login process
+2024-08-24 09:40:24,851 - INFO - login failed
+2024-08-24 09:50:31,069 - INFO - Starting login process
+2024-08-24 09:50:39,369 - INFO - login failed
+2024-08-24 10:00:45,559 - INFO - Starting login process
+2024-08-24 10:00:53,100 - INFO - login failed
+2024-08-24 10:10:59,283 - INFO - Starting login process
+2024-08-24 10:11:06,418 - INFO - login failed
+2024-08-24 10:21:12,603 - INFO - Starting login process
+2024-08-24 10:21:19,844 - INFO - login failed
+2024-08-24 10:31:26,057 - INFO - Starting login process
+2024-08-24 10:31:33,175 - INFO - login failed
+2024-08-24 10:41:39,356 - INFO - Starting login process
+2024-08-24 10:41:46,490 - INFO - login failed
+2024-08-24 10:51:52,684 - INFO - Starting login process
+2024-08-24 10:52:00,942 - INFO - login failed
+2024-08-24 11:02:07,145 - INFO - Starting login process
+2024-08-24 11:02:14,412 - INFO - login failed
+2024-08-24 11:12:20,592 - INFO - Starting login process
+2024-08-24 11:12:27,775 - INFO - login failed
+2024-08-24 11:22:33,987 - INFO - Starting login process
+2024-08-24 11:22:41,491 - INFO - login failed
+2024-08-24 11:32:47,686 - INFO - Starting login process
+2024-08-24 11:32:54,824 - INFO - login failed
+2024-08-24 11:43:01,021 - INFO - Starting login process
+2024-08-24 11:43:08,419 - INFO - login failed
+2024-08-24 11:53:14,604 - INFO - Starting login process
+2024-08-24 11:53:22,998 - INFO - login failed
+2024-08-24 12:03:29,190 - INFO - Starting login process
+2024-08-24 12:03:36,378 - INFO - login failed
+2024-08-24 12:13:42,596 - INFO - Starting login process
+2024-08-24 12:13:49,832 - INFO - login failed
+2024-08-24 12:23:56,068 - INFO - Starting login process
+2024-08-24 12:24:03,510 - INFO - login failed
+2024-08-24 12:34:09,722 - INFO - Starting login process
+2024-08-24 12:34:17,060 - INFO - login failed
+2024-08-24 12:44:23,260 - INFO - Starting login process
+2024-08-24 12:44:30,741 - INFO - login failed
+2024-08-24 12:54:36,955 - INFO - Starting login process
+2024-08-24 12:54:45,397 - INFO - login failed
+2024-08-24 13:04:51,589 - INFO - Starting login process
+2024-08-24 13:04:59,071 - INFO - login failed
+2024-08-24 13:15:05,295 - INFO - Starting login process
+2024-08-24 13:15:12,490 - INFO - login failed
+2024-08-24 13:25:18,692 - INFO - Starting login process
+2024-08-24 13:25:25,846 - INFO - login failed
+2024-08-24 13:35:32,023 - INFO - Starting login process
+2024-08-24 13:35:39,460 - INFO - login failed
+2024-08-24 13:45:45,647 - INFO - Starting login process
+2024-08-24 13:45:53,222 - INFO - login failed
+2024-08-24 13:55:59,451 - INFO - Starting login process
+2024-08-24 13:56:07,611 - INFO - login failed
+2024-08-24 14:06:13,821 - INFO - Starting login process
+2024-08-24 14:06:21,486 - INFO - login failed
+2024-08-24 14:16:27,696 - INFO - Starting login process
+2024-08-24 14:16:34,766 - INFO - login failed
+2024-08-24 14:26:40,988 - INFO - Starting login process
+2024-08-24 14:26:48,167 - INFO - login failed
+2024-08-24 14:36:54,383 - INFO - Starting login process
+2024-08-24 14:37:01,600 - INFO - login failed
+2024-08-24 14:47:07,797 - INFO - Starting login process
+2024-08-24 14:47:15,538 - INFO - login failed
+2024-08-24 14:57:21,723 - INFO - Starting login process
+2024-08-24 14:57:29,816 - INFO - login failed
+2024-08-24 15:07:35,980 - INFO - Starting login process
+2024-08-24 15:07:43,169 - INFO - login failed
+2024-08-24 15:17:49,380 - INFO - Starting login process
+2024-08-24 15:17:56,565 - INFO - login failed
+2024-08-24 15:28:02,742 - INFO - Starting login process
+2024-08-24 15:28:09,978 - INFO - login failed
+2024-08-24 15:38:16,184 - INFO - Starting login process
+2024-08-24 15:38:23,578 - INFO - login failed
+2024-08-24 15:48:29,770 - INFO - Starting login process
+2024-08-24 15:48:36,938 - INFO - login failed
+2024-08-24 15:58:43,146 - INFO - Starting login process
+2024-08-24 15:58:51,198 - INFO - login failed
+2024-08-24 16:08:57,416 - INFO - Starting login process
+2024-08-24 16:09:04,615 - INFO - login failed
+2024-08-24 16:19:10,840 - INFO - Starting login process
+2024-08-24 16:19:17,954 - INFO - login failed
+2024-08-24 16:29:24,152 - INFO - Starting login process
+2024-08-24 16:29:31,581 - INFO - login failed
+2024-08-24 16:39:37,817 - INFO - Starting login process
+2024-08-24 16:39:45,307 - INFO - login failed
+2024-08-24 16:49:51,478 - INFO - Starting login process
+2024-08-24 16:49:58,831 - INFO - login failed
+2024-08-24 17:00:05,032 - INFO - Starting login process
+2024-08-24 17:00:13,757 - INFO - login failed
+2024-08-24 17:10:19,930 - INFO - Starting login process
+2024-08-24 17:10:27,203 - INFO - login failed
+2024-08-24 17:20:33,398 - INFO - Starting login process
+2024-08-24 17:20:40,528 - INFO - login failed
+2024-08-24 17:30:46,752 - INFO - Starting login process
+2024-08-24 17:30:53,935 - INFO - login failed
+2024-08-24 17:41:00,150 - INFO - Starting login process
+2024-08-24 17:41:07,408 - INFO - login failed
+2024-08-24 17:51:13,603 - INFO - Starting login process
+2024-08-24 17:51:20,932 - INFO - login failed
+2024-08-24 18:01:27,160 - INFO - Starting login process
+2024-08-24 18:01:32,791 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 18:01:32,791 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-24 18:01:39,385 - INFO - login failed
+2024-08-24 18:11:45,575 - INFO - Starting login process
+2024-08-24 18:11:51,132 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 18:11:57,711 - INFO - login failed
+2024-08-24 18:22:03,905 - INFO - Starting login process
+2024-08-24 18:22:09,540 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 18:22:16,159 - INFO - login failed
+2024-08-24 18:32:22,352 - INFO - Starting login process
+2024-08-24 18:32:27,958 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 18:32:34,538 - INFO - login failed
+2024-08-24 18:42:40,729 - INFO - Starting login process
+2024-08-24 18:42:46,334 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 18:42:52,896 - INFO - login failed
+2024-08-24 18:52:59,112 - INFO - Starting login process
+2024-08-24 18:53:04,758 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 18:53:11,341 - INFO - login failed
+2024-08-24 19:03:17,539 - INFO - Starting login process
+2024-08-24 19:03:23,145 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 19:03:23,145 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-24 19:03:29,715 - INFO - login failed
+2024-08-24 19:13:35,931 - INFO - Starting login process
+2024-08-24 19:13:41,581 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 19:13:48,175 - INFO - login failed
+2024-08-24 19:23:54,386 - INFO - Starting login process
+2024-08-24 19:23:59,993 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 19:24:06,607 - INFO - login failed
+2024-08-24 19:34:12,817 - INFO - Starting login process
+2024-08-24 19:34:18,461 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 19:34:25,013 - INFO - login failed
+2024-08-24 19:44:31,208 - INFO - Starting login process
+2024-08-24 19:44:36,823 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 19:44:43,467 - INFO - login failed
+2024-08-24 19:54:49,667 - INFO - Starting login process
+2024-08-24 19:54:55,386 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 19:55:01,927 - INFO - login failed
+2024-08-24 20:05:08,143 - INFO - Starting login process
+2024-08-24 20:05:13,739 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 20:05:13,739 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-24 20:05:20,420 - INFO - login failed
+2024-08-24 20:15:26,601 - INFO - Starting login process
+2024-08-24 20:15:32,236 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 20:15:38,864 - INFO - login failed
+2024-08-24 20:25:45,083 - INFO - Starting login process
+2024-08-24 20:25:50,673 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 20:25:57,847 - INFO - login failed
+2024-08-24 20:36:04,020 - INFO - Starting login process
+2024-08-24 20:36:09,580 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 20:36:16,200 - INFO - login failed
+2024-08-24 20:46:22,407 - INFO - Starting login process
+2024-08-24 20:46:28,029 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 20:46:34,612 - INFO - login failed
+2024-08-24 20:56:40,819 - INFO - Starting login process
+2024-08-24 20:56:46,435 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 20:56:53,018 - INFO - login failed
+2024-08-24 21:06:59,221 - INFO - Starting login process
+2024-08-24 21:07:04,823 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 21:07:04,823 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-24 21:07:11,425 - INFO - login failed
+2024-08-24 21:17:17,646 - INFO - Starting login process
+2024-08-24 21:17:23,300 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 21:17:29,814 - INFO - login failed
+2024-08-24 21:27:35,975 - INFO - Starting login process
+2024-08-24 21:27:41,663 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 21:27:48,251 - INFO - login failed
+2024-08-24 21:37:54,452 - INFO - Starting login process
+2024-08-24 21:38:00,198 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 21:38:07,235 - INFO - login failed
+2024-08-24 21:48:13,409 - INFO - Starting login process
+2024-08-24 21:48:19,024 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 21:48:25,603 - INFO - login failed
+2024-08-24 21:58:31,800 - INFO - Starting login process
+2024-08-24 21:58:37,405 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 21:58:44,047 - INFO - login failed
+2024-08-24 22:08:50,251 - INFO - Starting login process
+2024-08-24 22:08:55,867 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 22:08:55,867 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-24 22:09:02,461 - INFO - login failed
+2024-08-24 22:19:08,669 - INFO - Starting login process
+2024-08-24 22:19:14,272 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 22:19:20,886 - INFO - login failed
+2024-08-24 22:29:27,070 - INFO - Starting login process
+2024-08-24 22:29:32,722 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 22:29:39,289 - INFO - login failed
+2024-08-24 22:39:45,468 - INFO - Starting login process
+2024-08-24 22:39:51,106 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 22:39:57,705 - INFO - login failed
+2024-08-24 22:50:03,928 - INFO - Starting login process
+2024-08-24 22:50:09,664 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 22:50:17,260 - INFO - login failed
+2024-08-24 23:00:23,413 - INFO - Starting login process
+2024-08-24 23:00:28,990 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 23:00:35,532 - INFO - login failed
+2024-08-24 23:10:41,730 - INFO - Starting login process
+2024-08-24 23:10:47,402 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 23:10:47,402 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-24 23:10:53,949 - INFO - login failed
+2024-08-24 23:21:00,181 - INFO - Starting login process
+2024-08-24 23:21:05,879 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 23:21:12,399 - INFO - login failed
+2024-08-24 23:31:18,564 - INFO - Starting login process
+2024-08-24 23:31:24,142 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 23:31:30,703 - INFO - login failed
+2024-08-24 23:41:36,911 - INFO - Starting login process
+2024-08-24 23:41:42,525 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 23:41:49,090 - INFO - login failed
+2024-08-24 23:51:55,285 - INFO - Starting login process
+2024-08-24 23:52:00,885 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-24 23:52:07,374 - INFO - login failed
+2024-08-25 00:02:13,580 - INFO - Starting login process
+2024-08-25 00:02:19,270 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 00:02:26,180 - INFO - login failed
+2024-08-25 00:12:32,394 - INFO - Starting login process
+2024-08-25 00:12:38,028 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 00:12:38,029 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 00:12:44,643 - INFO - login failed
+2024-08-25 00:22:50,823 - INFO - Starting login process
+2024-08-25 00:22:56,468 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 00:23:03,071 - INFO - login failed
+2024-08-25 00:33:09,246 - INFO - Starting login process
+2024-08-25 00:33:14,838 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 00:33:21,429 - INFO - login failed
+2024-08-25 00:43:27,614 - INFO - Starting login process
+2024-08-25 00:43:33,251 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 00:43:39,811 - INFO - login failed
+2024-08-25 00:53:46,028 - INFO - Starting login process
+2024-08-25 00:53:51,660 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 00:53:58,199 - INFO - login failed
+2024-08-25 01:04:04,414 - INFO - Starting login process
+2024-08-25 01:04:10,164 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 01:04:16,748 - INFO - login failed
+2024-08-25 01:14:22,951 - INFO - Starting login process
+2024-08-25 01:14:28,667 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 01:14:28,667 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 01:14:35,785 - INFO - login failed
+2024-08-25 01:24:41,989 - INFO - Starting login process
+2024-08-25 01:24:47,564 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 01:24:54,062 - INFO - login failed
+2024-08-25 01:35:00,253 - INFO - Starting login process
+2024-08-25 01:35:05,903 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 01:35:12,456 - INFO - login failed
+2024-08-25 01:45:18,628 - INFO - Starting login process
+2024-08-25 01:45:24,292 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 01:45:30,965 - INFO - login failed
+2024-08-25 01:55:37,166 - INFO - Starting login process
+2024-08-25 01:55:42,854 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 01:55:49,427 - INFO - login failed
+2024-08-25 02:05:55,616 - INFO - Starting login process
+2024-08-25 02:06:01,315 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 02:06:07,832 - INFO - login failed
+2024-08-25 02:16:14,018 - INFO - Starting login process
+2024-08-25 02:16:19,668 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 02:16:19,668 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 02:16:26,203 - INFO - login failed
+2024-08-25 02:26:32,425 - INFO - Starting login process
+2024-08-25 02:26:38,126 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 02:26:45,072 - INFO - login failed
+2024-08-25 02:36:51,260 - INFO - Starting login process
+2024-08-25 02:36:56,905 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 02:37:03,485 - INFO - login failed
+2024-08-25 02:47:09,684 - INFO - Starting login process
+2024-08-25 02:47:15,372 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 02:47:22,001 - INFO - login failed
+2024-08-25 02:57:28,182 - INFO - Starting login process
+2024-08-25 02:57:33,881 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 02:57:40,504 - INFO - login failed
+2024-08-25 03:07:46,710 - INFO - Starting login process
+2024-08-25 03:07:52,285 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 03:07:58,832 - INFO - login failed
+2024-08-25 03:18:05,010 - INFO - Starting login process
+2024-08-25 03:18:10,645 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 03:18:10,645 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 03:18:17,207 - INFO - login failed
+2024-08-25 03:28:23,396 - INFO - Starting login process
+2024-08-25 03:28:28,998 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 03:28:35,558 - INFO - login failed
+2024-08-25 03:38:41,784 - INFO - Starting login process
+2024-08-25 03:38:47,474 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 03:38:53,994 - INFO - login failed
+2024-08-25 03:49:00,196 - INFO - Starting login process
+2024-08-25 03:49:05,883 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 03:49:12,481 - INFO - login failed
+2024-08-25 03:59:18,688 - INFO - Starting login process
+2024-08-25 03:59:24,278 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 03:59:30,868 - INFO - login failed
+2024-08-25 04:09:37,061 - INFO - Starting login process
+2024-08-25 04:09:42,681 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 04:09:49,337 - INFO - login failed
+2024-08-25 04:19:55,543 - INFO - Starting login process
+2024-08-25 04:20:01,236 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 04:20:01,237 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 04:20:07,984 - INFO - login failed
+2024-08-25 04:30:14,169 - INFO - Starting login process
+2024-08-25 04:30:19,828 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 04:30:26,350 - INFO - login failed
+2024-08-25 04:40:32,564 - INFO - Starting login process
+2024-08-25 04:40:38,233 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 04:40:44,793 - INFO - login failed
+2024-08-25 04:50:50,965 - INFO - Starting login process
+2024-08-25 04:50:56,648 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 04:51:03,157 - INFO - login failed
+2024-08-25 05:01:09,355 - INFO - Starting login process
+2024-08-25 05:01:15,029 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 05:01:22,202 - INFO - login failed
+2024-08-25 05:11:28,383 - INFO - Starting login process
+2024-08-25 05:11:34,035 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 05:11:40,589 - INFO - login failed
+2024-08-25 05:21:46,802 - INFO - Starting login process
+2024-08-25 05:21:52,440 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 05:21:52,440 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 05:21:58,987 - INFO - login failed
+2024-08-25 05:32:05,201 - INFO - Starting login process
+2024-08-25 05:32:10,768 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 05:32:17,297 - INFO - login failed
+2024-08-25 05:42:23,508 - INFO - Starting login process
+2024-08-25 05:42:29,159 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 05:42:35,712 - INFO - login failed
+2024-08-25 05:52:41,911 - INFO - Starting login process
+2024-08-25 05:52:47,510 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 05:52:54,161 - INFO - login failed
+2024-08-25 06:03:00,356 - INFO - Starting login process
+2024-08-25 06:03:05,964 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 06:03:12,678 - INFO - login failed
+2024-08-25 06:13:18,897 - INFO - Starting login process
+2024-08-25 06:13:24,504 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 06:13:31,230 - INFO - login failed
+2024-08-25 06:23:37,431 - INFO - Starting login process
+2024-08-25 06:23:43,085 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 06:23:43,085 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 06:23:49,927 - INFO - login failed
+2024-08-25 06:33:56,117 - INFO - Starting login process
+2024-08-25 06:34:01,702 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 06:34:08,362 - INFO - login failed
+2024-08-25 06:44:14,556 - INFO - Starting login process
+2024-08-25 06:44:20,154 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 06:44:26,690 - INFO - login failed
+2024-08-25 06:54:32,893 - INFO - Starting login process
+2024-08-25 06:54:38,545 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 06:54:45,219 - INFO - login failed
+2024-08-25 07:04:51,439 - INFO - Starting login process
+2024-08-25 07:04:57,066 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 07:05:03,594 - INFO - login failed
+2024-08-25 07:15:09,810 - INFO - Starting login process
+2024-08-25 07:15:15,448 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 07:15:22,046 - INFO - login failed
+2024-08-25 07:25:28,265 - INFO - Starting login process
+2024-08-25 07:25:33,974 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 07:25:33,974 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 07:25:40,768 - INFO - login failed
+2024-08-25 07:35:46,964 - INFO - Starting login process
+2024-08-25 07:35:52,619 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 07:35:59,193 - INFO - login failed
+2024-08-25 07:46:05,386 - INFO - Starting login process
+2024-08-25 07:46:10,959 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 07:46:17,573 - INFO - login failed
+2024-08-25 07:56:23,778 - INFO - Starting login process
+2024-08-25 07:56:29,436 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 07:56:36,085 - INFO - login failed
+2024-08-25 08:06:42,313 - INFO - Starting login process
+2024-08-25 08:06:47,953 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 08:06:54,551 - INFO - login failed
+2024-08-25 08:17:00,768 - INFO - Starting login process
+2024-08-25 08:17:06,471 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 08:17:13,065 - INFO - login failed
+2024-08-25 08:27:19,257 - INFO - Starting login process
+2024-08-25 08:27:24,849 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 08:27:24,849 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 08:27:31,413 - INFO - login failed
+2024-08-25 08:37:37,641 - INFO - Starting login process
+2024-08-25 08:37:43,333 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 08:37:50,636 - INFO - login failed
+2024-08-25 08:47:56,837 - INFO - Starting login process
+2024-08-25 08:48:02,462 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 08:48:08,944 - INFO - login failed
+2024-08-25 08:58:15,158 - INFO - Starting login process
+2024-08-25 08:58:20,827 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 08:58:27,416 - INFO - login failed
+2024-08-25 09:08:33,610 - INFO - Starting login process
+2024-08-25 09:08:39,198 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 09:08:45,800 - INFO - login failed
+2024-08-25 09:18:52,007 - INFO - Starting login process
+2024-08-25 09:18:57,669 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 09:19:04,249 - INFO - login failed
+2024-08-25 09:29:10,445 - INFO - Starting login process
+2024-08-25 09:29:16,081 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 09:29:16,081 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 09:29:22,694 - INFO - login failed
+2024-08-25 09:39:28,887 - INFO - Starting login process
+2024-08-25 09:39:34,512 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 09:39:41,213 - INFO - login failed
+2024-08-25 09:49:47,412 - INFO - Starting login process
+2024-08-25 09:49:53,111 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 09:49:59,699 - INFO - login failed
+2024-08-25 10:00:05,890 - INFO - Starting login process
+2024-08-25 10:00:11,506 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 10:00:18,080 - INFO - login failed
+2024-08-25 10:10:24,269 - INFO - Starting login process
+2024-08-25 10:10:29,858 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 10:10:36,395 - INFO - login failed
+2024-08-25 10:20:42,601 - INFO - Starting login process
+2024-08-25 10:20:48,270 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 10:20:54,802 - INFO - login failed
+2024-08-25 10:31:00,997 - INFO - Starting login process
+2024-08-25 10:31:06,581 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 10:31:06,582 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 10:31:13,172 - INFO - login failed
+2024-08-25 10:41:19,393 - INFO - Starting login process
+2024-08-25 10:41:25,017 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 10:41:31,564 - INFO - login failed
+2024-08-25 10:51:37,778 - INFO - Starting login process
+2024-08-25 10:51:43,432 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 10:51:50,126 - INFO - login failed
+2024-08-25 11:01:56,303 - INFO - Starting login process
+2024-08-25 11:02:01,946 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 11:02:08,518 - INFO - login failed
+2024-08-25 11:12:14,746 - INFO - Starting login process
+2024-08-25 11:12:20,454 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 11:12:27,056 - INFO - login failed
+2024-08-25 11:22:33,253 - INFO - Starting login process
+2024-08-25 11:22:38,856 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 11:22:45,435 - INFO - login failed
+2024-08-25 11:32:51,652 - INFO - Starting login process
+2024-08-25 11:32:57,309 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 11:32:57,309 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 11:33:03,857 - INFO - login failed
+2024-08-25 11:43:10,059 - INFO - Starting login process
+2024-08-25 11:43:15,728 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 11:43:22,233 - INFO - login failed
+2024-08-25 11:53:28,434 - INFO - Starting login process
+2024-08-25 11:53:34,003 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 11:53:40,680 - INFO - login failed
+2024-08-25 12:03:46,883 - INFO - Starting login process
+2024-08-25 12:03:52,533 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 12:03:59,116 - INFO - login failed
+2024-08-25 12:14:05,313 - INFO - Starting login process
+2024-08-25 12:14:10,980 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 12:14:17,637 - INFO - login failed
+2024-08-25 12:24:23,857 - INFO - Starting login process
+2024-08-25 12:24:29,530 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 12:24:36,383 - INFO - login failed
+2024-08-25 12:34:42,572 - INFO - Starting login process
+2024-08-25 12:34:48,231 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 12:34:48,232 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 12:34:54,829 - INFO - login failed
+2024-08-25 12:45:01,048 - INFO - Starting login process
+2024-08-25 12:45:06,712 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 12:45:13,306 - INFO - login failed
+2024-08-25 12:55:19,532 - INFO - Starting login process
+2024-08-25 12:55:25,202 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 12:55:31,746 - INFO - login failed
+2024-08-25 13:05:37,954 - INFO - Starting login process
+2024-08-25 13:05:43,519 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 13:05:50,196 - INFO - login failed
+2024-08-25 13:15:56,387 - INFO - Starting login process
+2024-08-25 13:16:02,060 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 13:16:08,658 - INFO - login failed
+2024-08-25 13:26:14,872 - INFO - Starting login process
+2024-08-25 13:26:20,559 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 13:26:27,167 - INFO - login failed
+2024-08-25 13:36:33,347 - INFO - Starting login process
+2024-08-25 13:36:39,012 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 13:36:39,012 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 13:36:45,859 - INFO - login failed
+2024-08-25 13:46:52,067 - INFO - Starting login process
+2024-08-25 13:46:57,697 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 13:47:04,235 - INFO - login failed
+2024-08-25 13:57:10,465 - INFO - Starting login process
+2024-08-25 13:57:16,140 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 13:57:22,758 - INFO - login failed
+2024-08-25 14:07:29,982 - INFO - Starting login process
+2024-08-25 14:07:35,684 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 14:07:42,518 - INFO - login failed
+2024-08-25 14:17:48,704 - INFO - Starting login process
+2024-08-25 14:17:54,371 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 14:18:00,926 - INFO - login failed
+2024-08-25 14:28:07,136 - INFO - Starting login process
+2024-08-25 14:28:12,797 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 14:28:19,382 - INFO - login failed
+2024-08-25 14:38:25,571 - INFO - Starting login process
+2024-08-25 14:38:31,204 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 14:38:31,204 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 14:38:37,757 - INFO - login failed
+2024-08-25 14:48:43,954 - INFO - Starting login process
+2024-08-25 14:48:49,641 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 14:48:56,608 - INFO - login failed
+2024-08-25 14:59:02,844 - INFO - Starting login process
+2024-08-25 14:59:08,425 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 14:59:15,349 - INFO - login failed
+2024-08-25 15:09:21,537 - INFO - Starting login process
+2024-08-25 15:09:27,195 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 15:09:33,830 - INFO - login failed
+2024-08-25 15:19:40,066 - INFO - Starting login process
+2024-08-25 15:19:45,710 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 15:19:52,240 - INFO - login failed
+2024-08-25 15:29:58,449 - INFO - Starting login process
+2024-08-25 15:30:04,132 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 15:30:10,811 - INFO - login failed
+2024-08-25 15:40:17,017 - INFO - Starting login process
+2024-08-25 15:40:22,581 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 15:40:22,581 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 15:40:29,201 - INFO - login failed
+2024-08-25 15:50:35,389 - INFO - Starting login process
+2024-08-25 15:50:41,083 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 15:50:47,623 - INFO - login failed
+2024-08-25 16:00:53,836 - INFO - Starting login process
+2024-08-25 16:00:59,535 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 16:01:06,722 - INFO - login failed
+2024-08-25 16:11:12,896 - INFO - Starting login process
+2024-08-25 16:11:18,536 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 16:11:25,177 - INFO - login failed
+2024-08-25 16:21:31,356 - INFO - Starting login process
+2024-08-25 16:21:36,951 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 16:21:43,509 - INFO - login failed
+2024-08-25 16:31:49,721 - INFO - Starting login process
+2024-08-25 16:31:55,395 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 16:32:01,994 - INFO - login failed
+2024-08-25 16:42:08,194 - INFO - Starting login process
+2024-08-25 16:42:13,870 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 16:42:13,870 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 16:42:20,446 - INFO - login failed
+2024-08-25 16:52:26,611 - INFO - Starting login process
+2024-08-25 16:52:32,223 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 16:52:38,768 - INFO - login failed
+2024-08-25 17:02:44,961 - INFO - Starting login process
+2024-08-25 17:02:50,635 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 17:02:57,173 - INFO - login failed
+2024-08-25 17:13:03,382 - INFO - Starting login process
+2024-08-25 17:13:09,073 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 17:13:16,282 - INFO - login failed
+2024-08-25 17:23:22,512 - INFO - Starting login process
+2024-08-25 17:23:28,126 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 17:23:34,666 - INFO - login failed
+2024-08-25 17:33:40,836 - INFO - Starting login process
+2024-08-25 17:33:46,540 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 17:33:53,167 - INFO - login failed
+2024-08-25 17:43:59,380 - INFO - Starting login process
+2024-08-25 17:44:05,006 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 17:44:05,006 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 17:44:11,702 - INFO - login failed
+2024-08-25 17:54:17,862 - INFO - Starting login process
+2024-08-25 17:54:23,531 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 17:54:30,121 - INFO - login failed
+2024-08-25 18:04:36,326 - INFO - Starting login process
+2024-08-25 18:04:41,908 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 18:04:48,540 - INFO - login failed
+2024-08-25 18:14:54,754 - INFO - Starting login process
+2024-08-25 18:15:00,429 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 18:15:07,010 - INFO - login failed
+2024-08-25 18:25:13,198 - INFO - Starting login process
+2024-08-25 18:25:18,970 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 18:25:25,456 - INFO - login failed
+2024-08-25 18:35:31,617 - INFO - Starting login process
+2024-08-25 18:35:37,213 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 18:35:43,794 - INFO - login failed
+2024-08-25 18:45:50,001 - INFO - Starting login process
+2024-08-25 18:45:55,670 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 18:45:55,670 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 18:46:02,368 - INFO - login failed
+2024-08-25 18:56:08,560 - INFO - Starting login process
+2024-08-25 18:56:14,193 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 18:56:20,910 - INFO - login failed
+2024-08-25 19:06:27,116 - INFO - Starting login process
+2024-08-25 19:06:32,829 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 19:06:39,672 - INFO - login failed
+2024-08-25 19:16:45,869 - INFO - Starting login process
+2024-08-25 19:16:51,527 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 19:16:58,227 - INFO - login failed
+2024-08-25 19:27:04,424 - INFO - Starting login process
+2024-08-25 19:27:10,007 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 19:27:16,840 - INFO - login failed
+2024-08-25 19:37:23,040 - INFO - Starting login process
+2024-08-25 19:37:28,640 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 19:37:35,344 - INFO - login failed
+2024-08-25 19:47:41,544 - INFO - Starting login process
+2024-08-25 19:47:47,219 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 19:47:47,221 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 19:47:54,277 - INFO - login failed
+2024-08-25 19:58:00,454 - INFO - Starting login process
+2024-08-25 19:58:06,109 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 19:58:12,813 - INFO - login failed
+2024-08-25 20:08:19,023 - INFO - Starting login process
+2024-08-25 20:08:24,670 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 20:08:31,500 - INFO - login failed
+2024-08-25 20:18:37,708 - INFO - Starting login process
+2024-08-25 20:18:43,350 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 20:18:50,002 - INFO - login failed
+2024-08-25 20:28:56,163 - INFO - Starting login process
+2024-08-25 20:29:01,741 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 20:29:08,252 - INFO - login failed
+2024-08-25 20:39:14,486 - INFO - Starting login process
+2024-08-25 20:39:20,063 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 20:39:26,604 - INFO - login failed
+2024-08-25 20:49:32,787 - INFO - Starting login process
+2024-08-25 20:49:38,506 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 20:49:38,506 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 20:49:45,143 - INFO - login failed
+2024-08-25 20:59:51,336 - INFO - Starting login process
+2024-08-25 20:59:57,014 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 21:00:04,046 - INFO - login failed
+2024-08-25 21:10:10,258 - INFO - Starting login process
+2024-08-25 21:10:15,890 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 21:10:22,593 - INFO - login failed
+2024-08-25 21:20:28,783 - INFO - Starting login process
+2024-08-25 21:20:34,458 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 21:20:41,146 - INFO - login failed
+2024-08-25 21:30:47,340 - INFO - Starting login process
+2024-08-25 21:30:52,927 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 21:30:59,527 - INFO - login failed
+2024-08-25 21:41:05,728 - INFO - Starting login process
+2024-08-25 21:41:11,371 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 21:41:17,988 - INFO - login failed
+2024-08-25 21:51:24,211 - INFO - Starting login process
+2024-08-25 21:51:29,824 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 21:51:29,824 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 21:51:36,504 - INFO - login failed
+2024-08-25 22:01:42,714 - INFO - Starting login process
+2024-08-25 22:01:48,380 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 22:01:55,005 - INFO - login failed
+2024-08-25 22:12:01,194 - INFO - Starting login process
+2024-08-25 22:12:06,971 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 22:12:14,099 - INFO - login failed
+2024-08-25 22:22:20,303 - INFO - Starting login process
+2024-08-25 22:22:25,902 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 22:22:32,768 - INFO - login failed
+2024-08-25 22:32:38,978 - INFO - Starting login process
+2024-08-25 22:32:44,641 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 22:32:51,264 - INFO - login failed
+2024-08-25 22:42:57,472 - INFO - Starting login process
+2024-08-25 22:43:03,125 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 22:43:09,764 - INFO - login failed
+2024-08-25 22:53:15,969 - INFO - Starting login process
+2024-08-25 22:53:21,618 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 22:53:21,618 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 22:53:28,215 - INFO - login failed
+2024-08-25 23:03:34,395 - INFO - Starting login process
+2024-08-25 23:03:40,080 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 23:03:46,716 - INFO - login failed
+2024-08-25 23:13:52,901 - INFO - Starting login process
+2024-08-25 23:13:58,544 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 23:14:05,387 - INFO - login failed
+2024-08-25 23:24:11,563 - INFO - Starting login process
+2024-08-25 23:24:17,340 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 23:24:24,426 - INFO - login failed
+2024-08-25 23:34:30,644 - INFO - Starting login process
+2024-08-25 23:34:36,281 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 23:34:43,266 - INFO - login failed
+2024-08-25 23:44:49,473 - INFO - Starting login process
+2024-08-25 23:44:55,151 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 23:45:02,279 - INFO - login failed
+2024-08-25 23:55:08,462 - INFO - Starting login process
+2024-08-25 23:55:14,105 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-25 23:55:14,106 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-25 23:55:21,018 - INFO - login failed
+2024-08-26 00:05:27,225 - INFO - Starting login process
+2024-08-26 00:05:33,082 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 00:05:40,201 - INFO - login failed
+2024-08-26 00:15:46,405 - INFO - Starting login process
+2024-08-26 00:15:52,087 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 00:15:58,669 - INFO - login failed
+2024-08-26 00:26:04,852 - INFO - Starting login process
+2024-08-26 00:26:10,429 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 00:26:17,081 - INFO - login failed
+2024-08-26 00:36:23,312 - INFO - Starting login process
+2024-08-26 00:36:29,011 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 00:36:36,288 - INFO - login failed
+2024-08-26 00:46:42,474 - INFO - Starting login process
+2024-08-26 00:46:48,095 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 00:46:54,646 - INFO - login failed
+2024-08-26 00:57:00,838 - INFO - Starting login process
+2024-08-26 00:57:06,495 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 00:57:06,495 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-26 00:57:13,055 - INFO - login failed
+2024-08-26 01:07:19,279 - INFO - Starting login process
+2024-08-26 01:07:24,921 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 01:07:31,546 - INFO - login failed
+2024-08-26 01:17:37,722 - INFO - Starting login process
+2024-08-26 01:17:43,366 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 01:17:49,900 - INFO - login failed
+2024-08-26 01:27:56,088 - INFO - Starting login process
+2024-08-26 01:28:01,776 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 01:28:08,381 - INFO - login failed
+2024-08-26 01:38:14,574 - INFO - Starting login process
+2024-08-26 01:38:20,205 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 01:38:26,747 - INFO - login failed
+2024-08-26 01:48:32,949 - INFO - Starting login process
+2024-08-26 01:48:38,668 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 01:48:46,041 - INFO - login failed
+2024-08-26 01:58:52,256 - INFO - Starting login process
+2024-08-26 01:58:57,893 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 01:58:57,893 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-26 01:59:04,543 - INFO - login failed
+2024-08-26 02:09:10,742 - INFO - Starting login process
+2024-08-26 02:09:16,415 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 02:09:23,030 - INFO - login failed
+2024-08-26 02:19:29,243 - INFO - Starting login process
+2024-08-26 02:19:34,896 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 02:19:41,509 - INFO - login failed
+2024-08-26 02:29:47,685 - INFO - Starting login process
+2024-08-26 02:29:53,366 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 02:29:59,960 - INFO - login failed
+2024-08-26 02:40:06,159 - INFO - Starting login process
+2024-08-26 02:40:11,817 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 02:40:18,346 - INFO - login failed
+2024-08-26 02:50:24,534 - INFO - Starting login process
+2024-08-26 02:50:30,206 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 02:50:36,731 - INFO - login failed
+2024-08-26 03:00:42,927 - INFO - Starting login process
+2024-08-26 03:00:48,702 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 03:00:48,702 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-26 03:00:55,262 - INFO - login failed
+2024-08-26 03:11:01,455 - INFO - Starting login process
+2024-08-26 03:11:07,064 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 03:11:13,660 - INFO - login failed
+2024-08-26 03:21:19,870 - INFO - Starting login process
+2024-08-26 03:21:25,470 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 03:21:32,119 - INFO - login failed
+2024-08-26 03:31:38,323 - INFO - Starting login process
+2024-08-26 03:31:43,991 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 03:31:50,529 - INFO - login failed
+2024-08-26 03:41:56,741 - INFO - Starting login process
+2024-08-26 03:42:02,451 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 03:42:09,062 - INFO - login failed
+2024-08-26 03:52:15,259 - INFO - Starting login process
+2024-08-26 03:52:20,884 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 03:52:27,482 - INFO - login failed
+2024-08-26 04:02:33,696 - INFO - Starting login process
+2024-08-26 04:02:39,365 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 04:02:39,365 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-26 04:02:45,919 - INFO - login failed
+2024-08-26 04:12:52,114 - INFO - Starting login process
+2024-08-26 04:12:57,786 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 04:13:04,297 - INFO - login failed
+2024-08-26 04:23:10,484 - INFO - Starting login process
+2024-08-26 04:23:16,151 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 04:23:22,655 - INFO - login failed
+2024-08-26 04:33:28,852 - INFO - Starting login process
+2024-08-26 04:33:34,495 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 04:33:41,035 - INFO - login failed
+2024-08-26 04:43:47,240 - INFO - Starting login process
+2024-08-26 04:43:52,883 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 04:43:59,422 - INFO - login failed
+2024-08-26 04:54:05,637 - INFO - Starting login process
+2024-08-26 04:54:11,290 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 04:54:17,829 - INFO - login failed
+2024-08-26 05:04:24,045 - INFO - Starting login process
+2024-08-26 05:04:29,669 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 05:04:29,669 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-26 05:04:36,259 - INFO - login failed
+2024-08-26 05:14:42,481 - INFO - Starting login process
+2024-08-26 05:14:48,084 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 05:14:54,641 - INFO - login failed
+2024-08-26 05:25:00,847 - INFO - Starting login process
+2024-08-26 05:25:06,509 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 05:25:13,122 - INFO - login failed
+2024-08-26 05:35:19,322 - INFO - Starting login process
+2024-08-26 05:35:24,975 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 05:35:32,442 - INFO - login failed
+2024-08-26 05:45:38,650 - INFO - Starting login process
+2024-08-26 05:45:44,263 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 05:45:50,902 - INFO - login failed
+2024-08-26 05:55:57,119 - INFO - Starting login process
+2024-08-26 05:56:02,779 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 05:56:09,297 - INFO - login failed
+2024-08-26 06:06:15,495 - INFO - Starting login process
+2024-08-26 06:06:21,208 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 06:06:21,208 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-26 06:06:27,679 - INFO - login failed
+2024-08-26 06:16:33,888 - INFO - Starting login process
+2024-08-26 06:16:39,545 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 06:16:46,129 - INFO - login failed
+2024-08-26 06:26:52,338 - INFO - Starting login process
+2024-08-26 06:26:58,031 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 06:27:04,671 - INFO - login failed
+2024-08-26 06:37:10,893 - INFO - Starting login process
+2024-08-26 06:37:16,522 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 06:37:23,102 - INFO - login failed
+2024-08-26 06:47:29,292 - INFO - Starting login process
+2024-08-26 06:47:34,969 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 06:47:42,435 - INFO - login failed
+2024-08-26 06:57:48,603 - INFO - Starting login process
+2024-08-26 06:57:54,255 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 06:58:00,871 - INFO - login failed
+2024-08-26 07:08:07,051 - INFO - Starting login process
+2024-08-26 07:08:12,711 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 07:08:12,711 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-26 07:08:19,301 - INFO - login failed
+2024-08-26 07:18:25,500 - INFO - Starting login process
+2024-08-26 07:18:31,115 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 07:18:37,668 - INFO - login failed
+2024-08-26 07:28:43,867 - INFO - Starting login process
+2024-08-26 07:28:49,495 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 07:28:56,168 - INFO - login failed
+2024-08-26 07:39:02,374 - INFO - Starting login process
+2024-08-26 07:39:07,980 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 07:39:14,555 - INFO - login failed
+2024-08-26 07:49:20,745 - INFO - Starting login process
+2024-08-26 07:49:26,381 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 07:49:32,950 - INFO - login failed
+2024-08-26 07:59:39,145 - INFO - Starting login process
+2024-08-26 07:59:44,815 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 07:59:51,790 - INFO - login failed
+2024-08-26 08:09:57,988 - INFO - Starting login process
+2024-08-26 08:10:03,578 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 08:10:03,578 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-26 08:10:10,176 - INFO - login failed
+2024-08-26 08:20:16,376 - INFO - Starting login process
+2024-08-26 08:20:22,114 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 08:20:28,795 - INFO - login failed
+2024-08-26 08:30:34,984 - INFO - Starting login process
+2024-08-26 08:30:40,665 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 08:30:47,169 - INFO - login failed
+2024-08-26 08:40:53,373 - INFO - Starting login process
+2024-08-26 08:40:59,052 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 08:41:05,653 - INFO - login failed
+2024-08-26 08:51:11,846 - INFO - Starting login process
+2024-08-26 08:51:17,503 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 08:51:24,047 - INFO - login failed
+2024-08-26 09:01:30,262 - INFO - Starting login process
+2024-08-26 09:01:35,935 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 09:01:42,485 - INFO - login failed
+2024-08-26 09:11:48,680 - INFO - Starting login process
+2024-08-26 09:11:54,400 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 09:11:54,400 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-26 09:12:01,497 - INFO - login failed
+2024-08-26 09:22:07,690 - INFO - Starting login process
+2024-08-26 09:22:13,356 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 09:22:19,848 - INFO - login failed
+2024-08-26 09:32:26,022 - INFO - Starting login process
+2024-08-26 09:32:31,668 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 09:32:38,230 - INFO - login failed
+2024-08-26 09:42:44,431 - INFO - Starting login process
+2024-08-26 09:42:50,082 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 09:42:56,684 - INFO - login failed
+2024-08-26 09:53:02,854 - INFO - Starting login process
+2024-08-26 09:53:08,490 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 09:53:15,138 - INFO - login failed
+2024-08-26 10:03:21,319 - INFO - Starting login process
+2024-08-26 10:03:26,952 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 10:03:33,561 - INFO - login failed
+2024-08-26 10:13:39,759 - INFO - Starting login process
+2024-08-26 10:13:45,446 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 10:13:45,447 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-26 10:13:51,982 - INFO - login failed
+2024-08-26 10:23:58,180 - INFO - Starting login process
+2024-08-26 10:24:03,875 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 10:24:10,870 - INFO - login failed
+2024-08-26 10:34:17,039 - INFO - Starting login process
+2024-08-26 10:34:22,774 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 10:34:29,318 - INFO - login failed
+2024-08-26 10:44:35,557 - INFO - Starting login process
+2024-08-26 10:44:41,196 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 10:44:47,747 - INFO - login failed
+2024-08-26 10:54:53,930 - INFO - Starting login process
+2024-08-26 10:54:59,578 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 10:55:06,121 - INFO - login failed
+2024-08-26 11:05:12,342 - INFO - Starting login process
+2024-08-26 11:05:18,018 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 11:05:24,614 - INFO - login failed
+2024-08-26 11:15:30,819 - INFO - Starting login process
+2024-08-26 11:15:36,481 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 11:15:36,481 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-26 11:15:43,066 - INFO - login failed
+2024-08-26 11:25:49,269 - INFO - Starting login process
+2024-08-26 11:25:54,983 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 11:26:01,600 - INFO - login failed
+2024-08-26 11:36:07,785 - INFO - Starting login process
+2024-08-26 11:36:13,510 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 11:36:20,382 - INFO - login failed
+2024-08-26 11:46:26,582 - INFO - Starting login process
+2024-08-26 11:46:32,220 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 11:46:38,767 - INFO - login failed
+2024-08-26 11:56:44,976 - INFO - Starting login process
+2024-08-26 11:56:50,591 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 11:56:57,150 - INFO - login failed
+2024-08-26 12:07:03,365 - INFO - Starting login process
+2024-08-26 12:07:09,028 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 12:07:15,644 - INFO - login failed
+2024-08-26 12:17:21,866 - INFO - Starting login process
+2024-08-26 12:17:27,497 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 12:17:27,497 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-26 12:17:34,120 - INFO - login failed
+2024-08-26 12:27:40,312 - INFO - Starting login process
+2024-08-26 12:27:45,988 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 12:27:52,696 - INFO - login failed
+2024-08-26 12:37:58,907 - INFO - Starting login process
+2024-08-26 12:38:04,515 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 12:38:11,131 - INFO - login failed
+2024-08-26 12:48:17,341 - INFO - Starting login process
+2024-08-26 12:48:23,105 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 12:48:30,288 - INFO - login failed
+2024-08-26 12:58:36,472 - INFO - Starting login process
+2024-08-26 12:58:42,185 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 12:58:49,061 - INFO - login failed
+2024-08-26 13:08:55,260 - INFO - Starting login process
+2024-08-26 13:09:00,870 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 13:09:07,451 - INFO - login failed
+2024-08-26 13:19:13,653 - INFO - Starting login process
+2024-08-26 13:19:19,250 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 13:19:19,251 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-26 13:19:25,852 - INFO - login failed
+2024-08-26 13:29:32,054 - INFO - Starting login process
+2024-08-26 13:29:37,672 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 13:29:44,257 - INFO - login failed
+2024-08-26 13:39:50,474 - INFO - Starting login process
+2024-08-26 13:39:56,164 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 13:40:02,758 - INFO - login failed
+2024-08-26 13:50:08,946 - INFO - Starting login process
+2024-08-26 13:50:14,599 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 13:50:21,229 - INFO - login failed
+2024-08-26 14:00:27,414 - INFO - Starting login process
+2024-08-26 14:00:33,117 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 14:00:40,237 - INFO - login failed
+2024-08-26 14:10:46,444 - INFO - Starting login process
+2024-08-26 14:10:52,051 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 14:10:58,608 - INFO - login failed
+2024-08-26 14:21:04,806 - INFO - Starting login process
+2024-08-26 14:21:10,440 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 14:21:10,440 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-26 14:21:17,020 - INFO - login failed
+2024-08-26 14:31:23,251 - INFO - Starting login process
+2024-08-26 14:31:28,906 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 14:31:35,469 - INFO - login failed
+2024-08-26 14:41:41,654 - INFO - Starting login process
+2024-08-26 14:41:47,318 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 14:41:53,890 - INFO - login failed
+2024-08-26 14:52:00,086 - INFO - Starting login process
+2024-08-26 14:52:05,818 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 14:52:12,420 - INFO - login failed
+2024-08-26 15:02:18,632 - INFO - Starting login process
+2024-08-26 15:02:24,380 - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_119_WINDOWS)); using driver found in the cache
+2024-08-26 15:02:31,416 - INFO - login failed
+2024-08-26 15:06:25,578 - INFO - Starting login process
+2024-08-26 15:06:33,892 - INFO - login failed
+2024-08-26 15:16:40,099 - INFO - Starting login process
+2024-08-26 15:16:47,270 - INFO - login failed
+2024-08-26 15:26:54,465 - INFO - Starting login process
+2024-08-26 15:27:01,737 - INFO - login failed
+2024-08-26 15:37:07,935 - INFO - Starting login process
+2024-08-26 15:37:15,119 - INFO - login failed
+2024-08-26 15:47:21,321 - INFO - Starting login process
+2024-08-26 15:47:28,511 - INFO - login failed
+2024-08-26 15:57:34,715 - INFO - Starting login process
+2024-08-26 15:57:41,764 - INFO - login failed
+2024-08-26 16:07:48,947 - INFO - Starting login process
+2024-08-26 16:07:56,737 - INFO - login failed
+2024-08-26 16:18:02,943 - INFO - Starting login process
+2024-08-26 16:18:10,220 - INFO - login failed
+2024-08-26 16:28:16,429 - INFO - Starting login process
+2024-08-26 16:28:23,667 - INFO - login failed
+2024-08-26 16:38:29,898 - INFO - Starting login process
+2024-08-26 16:38:37,125 - INFO - login failed
+2024-08-26 16:48:43,346 - INFO - Starting login process
+2024-08-26 16:48:50,524 - INFO - login failed
+2024-08-26 16:58:56,715 - INFO - Starting login process
+2024-08-26 16:59:03,811 - INFO - login failed
+2024-08-26 17:09:09,987 - INFO - Starting login process
+2024-08-26 17:09:18,399 - INFO - login failed
+2024-08-26 17:19:24,627 - INFO - Starting login process
+2024-08-26 17:19:31,818 - INFO - login failed
+2024-08-26 17:29:37,988 - INFO - Starting login process
+2024-08-26 17:29:45,143 - INFO - login failed
+2024-08-26 17:39:51,341 - INFO - Starting login process
+2024-08-26 17:39:58,646 - INFO - login failed
+2024-08-26 17:50:04,868 - INFO - Starting login process
+2024-08-26 17:50:12,225 - INFO - login failed
+2024-08-26 18:00:18,423 - INFO - Starting login process
+2024-08-26 18:00:25,940 - INFO - login failed
+2024-08-26 18:10:32,167 - INFO - Starting login process
+2024-08-26 18:10:39,588 - INFO - login failed
+2024-08-26 18:20:45,773 - INFO - Starting login process
+2024-08-26 18:20:53,307 - INFO - login failed
+2024-08-26 18:30:59,497 - INFO - Starting login process
+2024-08-26 18:31:06,760 - INFO - login failed
+2024-08-26 18:41:14,769 - INFO - Starting login process
+2024-08-26 18:41:22,297 - INFO - login failed
+2024-08-26 18:51:28,515 - INFO - Starting login process
+2024-08-26 18:51:35,688 - INFO - login failed
+2024-08-26 19:01:41,905 - INFO - Starting login process
+2024-08-26 19:01:49,074 - INFO - login failed
+2024-08-26 19:11:55,274 - INFO - Starting login process
+2024-08-26 19:12:03,392 - INFO - login failed
+2024-08-26 19:22:09,611 - INFO - Starting login process
+2024-08-26 19:22:16,805 - INFO - login failed
+2024-08-26 19:32:22,989 - INFO - Starting login process
+2024-08-26 19:32:30,262 - INFO - login failed
+2024-08-26 19:42:36,445 - INFO - Starting login process
+2024-08-26 19:42:43,737 - INFO - login failed
+2024-08-26 19:52:49,963 - INFO - Starting login process
+2024-08-26 19:52:57,133 - INFO - login failed
+2024-08-26 20:03:03,326 - INFO - Starting login process
+2024-08-26 20:03:10,618 - INFO - login failed
+2024-08-26 20:13:16,802 - INFO - Starting login process
+2024-08-26 20:13:25,128 - INFO - login failed
+2024-08-26 20:23:31,329 - INFO - Starting login process
+2024-08-26 20:23:38,645 - INFO - login failed
+2024-08-26 20:33:44,893 - INFO - Starting login process
+2024-08-26 20:33:52,152 - INFO - login failed
+2024-08-26 20:43:58,352 - INFO - Starting login process
+2024-08-26 20:44:05,456 - INFO - login failed
+2024-08-26 20:54:11,642 - INFO - Starting login process
+2024-08-26 20:54:18,725 - INFO - login failed
+2024-08-26 21:04:24,925 - INFO - Starting login process
+2024-08-26 21:04:32,238 - INFO - login failed
+2024-08-26 21:14:38,451 - INFO - Starting login process
+2024-08-26 21:14:46,858 - INFO - login failed
+2024-08-26 21:24:53,053 - INFO - Starting login process
+2024-08-26 21:25:00,378 - INFO - login failed
+2024-08-26 21:35:06,601 - INFO - Starting login process
+2024-08-26 21:35:13,616 - INFO - login failed
+2024-08-26 21:45:19,860 - INFO - Starting login process
+2024-08-26 21:45:27,026 - INFO - login failed
+2024-08-26 21:55:33,243 - INFO - Starting login process
+2024-08-26 21:55:40,466 - INFO - login failed
+2024-08-26 22:05:46,664 - INFO - Starting login process
+2024-08-26 22:05:54,021 - INFO - login failed
+2024-08-26 22:16:00,229 - INFO - Starting login process
+2024-08-26 22:16:08,157 - INFO - login failed
+2024-08-26 22:26:14,337 - INFO - Starting login process
+2024-08-26 22:26:21,937 - INFO - login failed
+2024-08-26 22:36:28,150 - INFO - Starting login process
+2024-08-26 22:36:35,300 - INFO - login failed
+2024-08-26 22:46:41,485 - INFO - Starting login process
+2024-08-26 22:46:48,770 - INFO - login failed
+2024-08-26 22:56:54,980 - INFO - Starting login process
+2024-08-26 22:57:02,158 - INFO - login failed
+2024-08-26 23:07:08,365 - INFO - Starting login process
+2024-08-26 23:07:15,501 - INFO - login failed
+2024-08-26 23:17:21,768 - INFO - Starting login process
+2024-08-26 23:17:30,182 - INFO - login failed
+2024-08-26 23:27:36,423 - INFO - Starting login process
+2024-08-26 23:27:43,573 - INFO - login failed
+2024-08-26 23:37:49,778 - INFO - Starting login process
+2024-08-26 23:37:56,942 - INFO - login failed
+2024-08-26 23:48:03,137 - INFO - Starting login process
+2024-08-26 23:48:10,345 - INFO - login failed
+2024-08-26 23:58:17,566 - INFO - Starting login process
+2024-08-26 23:58:24,699 - INFO - login failed
+2024-08-27 00:08:30,890 - INFO - Starting login process
+2024-08-27 00:08:38,181 - INFO - login failed
+2024-08-27 00:18:44,366 - INFO - Starting login process
+2024-08-27 00:18:55,764 - INFO - login failed
+2024-08-27 00:29:01,978 - INFO - Starting login process
+2024-08-27 00:29:09,211 - INFO - login failed
+2024-08-27 00:39:15,482 - INFO - Starting login process
+2024-08-27 00:39:22,721 - INFO - login failed
+2024-08-27 00:49:28,938 - INFO - Starting login process
+2024-08-27 00:49:36,198 - INFO - login failed
+2024-08-27 00:59:42,381 - INFO - Starting login process
+2024-08-27 00:59:49,622 - INFO - login failed
+2024-08-27 01:09:55,825 - INFO - Starting login process
+2024-08-27 01:10:02,921 - INFO - login failed
+2024-08-27 01:20:09,143 - INFO - Starting login process
+2024-08-27 01:20:18,637 - INFO - login failed
+2024-08-27 01:30:24,842 - INFO - Starting login process
+2024-08-27 01:30:32,074 - INFO - login failed
+2024-08-27 01:40:38,269 - INFO - Starting login process
+2024-08-27 01:40:45,489 - INFO - login failed
+2024-08-27 01:50:51,710 - INFO - Starting login process
+2024-08-27 01:50:59,033 - INFO - login failed
+2024-08-27 02:01:05,253 - INFO - Starting login process
+2024-08-27 02:01:12,719 - INFO - login failed
+2024-08-27 02:11:18,968 - INFO - Starting login process
+2024-08-27 02:11:26,218 - INFO - login failed
+2024-08-27 02:21:32,443 - INFO - Starting login process
+2024-08-27 02:21:40,691 - INFO - login failed
+2024-08-27 02:31:46,915 - INFO - Starting login process
+2024-08-27 02:31:54,017 - INFO - login failed
+2024-08-27 02:42:00,212 - INFO - Starting login process
+2024-08-27 02:42:07,459 - INFO - login failed
+2024-08-27 02:52:13,644 - INFO - Starting login process
+2024-08-27 02:52:20,857 - INFO - login failed
+2024-08-27 03:02:27,078 - INFO - Starting login process
+2024-08-27 03:02:34,423 - INFO - login failed
+2024-08-27 03:12:40,635 - INFO - Starting login process
+2024-08-27 03:12:47,898 - INFO - login failed
+2024-08-27 03:22:54,086 - INFO - Starting login process
+2024-08-27 03:23:02,259 - INFO - login failed
+2024-08-27 03:33:08,482 - INFO - Starting login process
+2024-08-27 03:33:15,664 - INFO - login failed
+2024-08-27 03:43:21,895 - INFO - Starting login process
+2024-08-27 03:43:29,068 - INFO - login failed
+2024-08-27 03:53:35,263 - INFO - Starting login process
+2024-08-27 03:53:42,708 - INFO - login failed
+2024-08-27 04:03:48,890 - INFO - Starting login process
+2024-08-27 04:03:56,209 - INFO - login failed
+2024-08-27 04:14:02,423 - INFO - Starting login process
+2024-08-27 04:14:09,560 - INFO - login failed
+2024-08-27 04:24:15,772 - INFO - Starting login process
+2024-08-27 04:24:23,928 - INFO - login failed
+2024-08-27 04:34:30,109 - INFO - Starting login process
+2024-08-27 04:34:37,560 - INFO - login failed
+2024-08-27 04:44:43,779 - INFO - Starting login process
+2024-08-27 04:44:50,997 - INFO - login failed
+2024-08-27 04:54:57,194 - INFO - Starting login process
+2024-08-27 04:55:04,441 - INFO - login failed
+2024-08-27 05:05:10,641 - INFO - Starting login process
+2024-08-27 05:05:17,948 - INFO - login failed
+2024-08-27 05:15:24,222 - INFO - Starting login process
+2024-08-27 05:15:31,527 - INFO - login failed
+2024-08-27 05:25:37,730 - INFO - Starting login process
+2024-08-27 05:25:45,774 - INFO - login failed
+2024-08-27 05:35:51,941 - INFO - Starting login process
+2024-08-27 05:35:59,125 - INFO - login failed
+2024-08-27 05:46:05,325 - INFO - Starting login process
+2024-08-27 05:46:12,579 - INFO - login failed
+2024-08-27 05:56:18,824 - INFO - Starting login process
+2024-08-27 05:56:26,122 - INFO - login failed
+2024-08-27 06:06:32,327 - INFO - Starting login process
+2024-08-27 06:06:39,728 - INFO - login failed
+2024-08-27 06:16:45,940 - INFO - Starting login process
+2024-08-27 06:16:53,211 - INFO - login failed
+2024-08-27 06:26:59,419 - INFO - Starting login process
+2024-08-27 06:27:07,438 - INFO - login failed
+2024-08-27 06:37:13,630 - INFO - Starting login process
+2024-08-27 06:37:20,995 - INFO - login failed
+2024-08-27 06:47:27,205 - INFO - Starting login process
+2024-08-27 06:47:34,398 - INFO - login failed
+2024-08-27 06:57:40,600 - INFO - Starting login process
+2024-08-27 06:57:47,691 - INFO - login failed
+2024-08-27 07:07:53,910 - INFO - Starting login process
+2024-08-27 07:08:01,081 - INFO - login failed
+2024-08-27 07:18:07,278 - INFO - Starting login process
+2024-08-27 07:18:14,518 - INFO - login failed
+2024-08-27 07:28:20,739 - INFO - Starting login process
+2024-08-27 07:28:28,701 - INFO - login failed
+2024-08-27 07:38:34,906 - INFO - Starting login process
+2024-08-27 07:38:42,176 - INFO - login failed
+2024-08-27 07:48:48,390 - INFO - Starting login process
+2024-08-27 07:48:55,560 - INFO - login failed
+2024-08-27 07:59:01,763 - INFO - Starting login process
+2024-08-27 07:59:08,825 - INFO - login failed
+2024-08-27 08:09:15,054 - INFO - Starting login process
+2024-08-27 08:09:22,094 - INFO - login failed
+2024-08-27 08:19:28,318 - INFO - Starting login process
+2024-08-27 08:19:35,459 - INFO - login failed
+2024-08-27 08:29:41,653 - INFO - Starting login process
+2024-08-27 08:29:49,892 - INFO - login failed
+2024-08-27 08:39:56,111 - INFO - Starting login process
+2024-08-27 08:40:03,443 - INFO - login failed
+2024-08-27 08:50:09,657 - INFO - Starting login process
+2024-08-27 08:50:16,915 - INFO - login failed
+2024-08-27 09:00:23,130 - INFO - Starting login process
+2024-08-27 09:00:30,405 - INFO - login failed
+2024-08-27 09:10:36,604 - INFO - Starting login process
+2024-08-27 09:10:43,898 - INFO - login failed
+2024-08-27 09:20:50,161 - INFO - Starting login process
+2024-08-27 09:20:57,388 - INFO - login failed
+2024-08-27 09:31:03,584 - INFO - Starting login process
+2024-08-27 09:31:11,666 - INFO - login failed
+2024-08-27 09:41:17,878 - INFO - Starting login process
+2024-08-27 09:41:25,024 - INFO - login failed
+2024-08-27 09:51:31,240 - INFO - Starting login process
+2024-08-27 09:51:38,300 - INFO - login failed
+2024-08-27 10:01:44,511 - INFO - Starting login process
+2024-08-27 10:01:51,741 - INFO - login failed
+2024-08-27 10:11:57,924 - INFO - Starting login process
+2024-08-27 10:12:05,195 - INFO - login failed
+2024-08-27 10:22:11,396 - INFO - Starting login process
+2024-08-27 10:22:18,638 - INFO - login failed
+2024-08-27 10:32:24,820 - INFO - Starting login process
+2024-08-27 10:32:33,071 - INFO - login failed
+2024-08-27 10:42:39,241 - INFO - Starting login process
+2024-08-27 10:42:46,469 - INFO - login failed
+2024-08-27 10:52:52,685 - INFO - Starting login process
+2024-08-27 10:52:59,661 - INFO - login failed
+2024-08-27 11:03:05,844 - INFO - Starting login process
+2024-08-27 11:03:13,011 - INFO - login failed
+2024-08-27 11:13:19,222 - INFO - Starting login process
+2024-08-27 11:13:26,410 - INFO - login failed
+2024-08-27 11:23:32,572 - INFO - Starting login process
+2024-08-27 11:23:39,981 - INFO - login failed
+2024-08-27 11:33:46,194 - INFO - Starting login process
+2024-08-27 11:33:54,327 - INFO - login failed
+2024-08-27 11:44:00,524 - INFO - Starting login process
+2024-08-27 11:44:07,900 - INFO - login failed
+2024-08-27 11:54:14,130 - INFO - Starting login process
+2024-08-27 11:54:21,227 - INFO - login failed
+2024-08-27 12:04:27,473 - INFO - Starting login process
+2024-08-27 12:04:34,777 - INFO - login success
+2024-08-27 12:14:41,001 - INFO - Starting login process
+2024-08-27 12:14:48,272 - INFO - login failed
+2024-08-27 12:24:54,506 - INFO - Starting login process
+2024-08-27 12:25:01,789 - INFO - login failed
+2024-08-27 12:35:08,002 - INFO - Starting login process
+2024-08-27 12:35:15,926 - INFO - login failed
+2024-08-27 12:45:22,134 - INFO - Starting login process
+2024-08-27 12:45:29,491 - INFO - login failed
+2024-08-27 12:55:35,676 - INFO - Starting login process
+2024-08-27 12:55:42,925 - INFO - login failed
+2024-08-27 13:05:49,116 - INFO - Starting login process
+2024-08-27 13:05:56,418 - INFO - login failed
+2024-08-27 13:16:02,632 - INFO - Starting login process
+2024-08-27 13:16:09,797 - INFO - login failed
+2024-08-27 13:26:16,029 - INFO - Starting login process
+2024-08-27 13:26:23,282 - INFO - login failed
+2024-08-27 13:36:29,518 - INFO - Starting login process
+2024-08-27 13:36:37,481 - INFO - login failed
+2024-08-27 13:46:43,692 - INFO - Starting login process
+2024-08-27 13:46:50,915 - INFO - login failed
+2024-08-27 13:56:57,130 - INFO - Starting login process
+2024-08-27 13:57:04,296 - INFO - login failed
+2024-08-27 15:50:54,811 - INFO - Starting login process
+2024-08-27 15:51:03,121 - INFO - login failed
+2024-08-27 16:01:09,275 - INFO - Starting login process
+2024-08-27 16:01:16,867 - INFO - login failed
+2024-08-27 16:11:23,049 - INFO - Starting login process
+2024-08-27 16:11:30,374 - INFO - login failed
+2024-08-27 16:21:36,565 - INFO - Starting login process
+2024-08-27 16:21:43,856 - INFO - login failed
+2024-08-27 16:31:50,021 - INFO - Starting login process
+2024-08-27 16:31:57,386 - INFO - login failed
+2024-08-27 16:42:03,564 - INFO - Starting login process
+2024-08-27 16:42:11,305 - INFO - login failed
+2024-08-27 16:52:17,454 - INFO - Starting login process
+2024-08-27 16:52:25,975 - INFO - login failed
+2024-08-27 17:02:32,161 - INFO - Starting login process
+2024-08-27 17:02:39,562 - INFO - login failed
+2024-08-27 17:12:45,712 - INFO - Starting login process
+2024-08-27 17:12:53,746 - INFO - login failed
+2024-08-27 17:22:59,900 - INFO - Starting login process
+2024-08-27 17:23:07,399 - INFO - login failed
+2024-08-27 17:33:13,593 - INFO - Starting login process
+2024-08-27 17:33:20,937 - INFO - login failed
+2024-08-27 17:43:27,100 - INFO - Starting login process
+2024-08-27 17:43:34,650 - INFO - login failed
+2024-08-27 17:53:40,863 - INFO - Starting login process
+2024-08-27 17:53:49,580 - INFO - login failed
+2024-08-27 18:03:55,779 - INFO - Starting login process
+2024-08-27 18:04:03,376 - INFO - login failed
+2024-08-27 18:14:09,539 - INFO - Starting login process
+2024-08-27 18:14:16,960 - INFO - login failed
+2024-08-27 18:24:23,153 - INFO - Starting login process
+2024-08-27 18:24:30,421 - INFO - login failed
+2024-08-27 18:34:36,633 - INFO - Starting login process
+2024-08-27 18:34:43,898 - INFO - login failed
+2024-08-27 18:44:50,106 - INFO - Starting login process
+2024-08-27 18:44:57,383 - INFO - login failed
+2024-08-27 18:55:03,546 - INFO - Starting login process
+2024-08-27 18:55:11,444 - INFO - login failed
+2024-08-27 19:05:17,633 - INFO - Starting login process
+2024-08-27 19:05:24,776 - INFO - login failed
+2024-08-27 19:15:30,978 - INFO - Starting login process
+2024-08-27 19:15:38,447 - INFO - login failed
+2024-08-27 19:25:44,667 - INFO - Starting login process
+2024-08-27 19:25:52,101 - INFO - login failed
+2024-08-27 19:35:58,297 - INFO - Starting login process
+2024-08-27 19:36:05,685 - INFO - login failed
+2024-08-27 19:46:11,870 - INFO - Starting login process
+2024-08-27 19:46:19,297 - INFO - login failed
+2024-08-27 19:56:25,501 - INFO - Starting login process
+2024-08-27 19:56:33,563 - INFO - login failed
+2024-08-27 20:06:39,731 - INFO - Starting login process
+2024-08-27 20:06:47,099 - INFO - login failed
+2024-08-27 20:16:53,294 - INFO - Starting login process
+2024-08-27 20:17:00,921 - INFO - login failed
+2024-08-27 20:27:07,067 - INFO - Starting login process
+2024-08-27 20:27:14,243 - INFO - login failed
+2024-08-27 20:37:20,369 - INFO - Starting login process
+2024-08-27 20:37:28,055 - INFO - login failed
+2024-08-27 20:47:34,204 - INFO - Starting login process
+2024-08-27 20:47:42,492 - INFO - login failed
+2024-08-27 20:57:48,668 - INFO - Starting login process
+2024-08-27 20:57:57,877 - INFO - login failed
+2024-08-27 21:08:04,042 - INFO - Starting login process
+2024-08-27 21:08:11,351 - INFO - login failed
+2024-08-27 21:18:17,528 - INFO - Starting login process
+2024-08-27 21:18:25,075 - INFO - login failed
+2024-08-27 21:28:31,224 - INFO - Starting login process
+2024-08-27 21:28:44,106 - INFO - login failed
+2024-08-27 21:38:50,337 - INFO - Starting login process
+2024-08-27 21:39:00,589 - INFO - login failed
+2024-08-27 21:49:06,760 - INFO - Starting login process
+2024-08-27 21:49:14,159 - INFO - login failed
+2024-08-27 21:59:20,350 - INFO - Starting login process
+2024-08-27 21:59:28,931 - INFO - login failed
+2024-08-27 22:09:35,131 - INFO - Starting login process
+2024-08-27 22:09:42,320 - INFO - login failed
+2024-08-27 22:19:48,507 - INFO - Starting login process
+2024-08-27 22:19:55,629 - INFO - login failed
+2024-08-27 22:30:01,809 - INFO - Starting login process
+2024-08-27 22:30:09,072 - INFO - login failed
+2024-08-27 22:40:15,268 - INFO - Starting login process
+2024-08-27 22:40:22,518 - INFO - login failed
+2024-08-27 22:50:28,717 - INFO - Starting login process
+2024-08-27 22:50:36,147 - INFO - login failed
+2024-08-27 23:00:42,291 - INFO - Starting login process
+2024-08-27 23:00:46,354 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-27 23:00:52,982 - INFO - login failed
+2024-08-27 23:10:59,169 - INFO - Starting login process
+2024-08-27 23:11:06,450 - INFO - login failed
+2024-08-27 23:21:12,665 - INFO - Starting login process
+2024-08-27 23:21:19,934 - INFO - login failed
+2024-08-27 23:31:26,114 - INFO - Starting login process
+2024-08-27 23:31:33,384 - INFO - login failed
+2024-08-27 23:41:39,569 - INFO - Starting login process
+2024-08-27 23:41:46,855 - INFO - login failed
+2024-08-27 23:51:53,020 - INFO - Starting login process
+2024-08-27 23:52:00,281 - INFO - login failed
+2024-08-28 00:02:06,441 - INFO - Starting login process
+2024-08-28 00:02:17,721 - INFO - login failed
+2024-08-28 00:12:23,922 - INFO - Starting login process
+2024-08-28 00:12:31,116 - INFO - login failed
+2024-08-28 00:22:37,320 - INFO - Starting login process
+2024-08-28 00:22:44,781 - INFO - login failed
+2024-08-28 00:32:50,971 - INFO - Starting login process
+2024-08-28 00:32:58,241 - INFO - login failed
+2024-08-28 00:43:04,481 - INFO - Starting login process
+2024-08-28 00:43:11,853 - INFO - login failed
+2024-08-28 00:53:18,070 - INFO - Starting login process
+2024-08-28 00:53:25,247 - INFO - login failed
+2024-08-28 01:03:31,450 - INFO - Starting login process
+2024-08-28 01:03:40,603 - INFO - login failed
+2024-08-28 01:13:46,819 - INFO - Starting login process
+2024-08-28 01:13:54,225 - INFO - login failed
+2024-08-28 08:48:15,744 - INFO - Starting login process
+2024-08-28 08:48:23,848 - INFO - login failed
+2024-08-28 08:58:30,062 - INFO - Starting login process
+2024-08-28 08:58:37,302 - INFO - login failed
+2024-08-28 09:08:43,508 - INFO - Starting login process
+2024-08-28 09:08:50,908 - INFO - login failed
+2024-08-28 09:18:57,129 - INFO - Starting login process
+2024-08-28 09:19:04,390 - INFO - login failed
+2024-08-28 09:29:10,589 - INFO - Starting login process
+2024-08-28 09:29:17,974 - INFO - login failed
+2024-08-28 09:39:24,169 - INFO - Starting login process
+2024-08-28 09:39:31,401 - INFO - login failed
+2024-08-28 09:49:37,612 - INFO - Starting login process
+2024-08-28 09:49:45,645 - INFO - login failed
+2024-08-28 09:59:51,880 - INFO - Starting login process
+2024-08-28 09:59:59,023 - INFO - login failed
+2024-08-28 10:10:05,215 - INFO - Starting login process
+2024-08-28 10:10:12,456 - INFO - login failed
+2024-08-28 10:20:18,661 - INFO - Starting login process
+2024-08-28 10:20:25,933 - INFO - login failed
+2024-08-28 10:30:32,150 - INFO - Starting login process
+2024-08-28 10:30:39,401 - INFO - login failed
+2024-08-28 10:40:45,590 - INFO - Starting login process
+2024-08-28 10:40:52,815 - INFO - login failed
+2024-08-28 10:50:58,992 - INFO - Starting login process
+2024-08-28 10:51:07,066 - INFO - login failed
+2024-08-28 11:01:13,272 - INFO - Starting login process
+2024-08-28 11:01:20,584 - INFO - login failed
+2024-08-28 11:11:26,792 - INFO - Starting login process
+2024-08-28 11:11:34,030 - INFO - login failed
+2024-08-28 11:21:40,251 - INFO - Starting login process
+2024-08-28 11:21:47,522 - INFO - login failed
+2024-08-28 11:31:53,708 - INFO - Starting login process
+2024-08-28 11:32:00,859 - INFO - login failed
+2024-08-28 11:42:07,051 - INFO - Starting login process
+2024-08-28 11:42:14,295 - INFO - login failed
+2024-08-28 11:52:20,492 - INFO - Starting login process
+2024-08-28 11:52:28,563 - INFO - login failed
+2024-08-28 12:02:34,771 - INFO - Starting login process
+2024-08-28 12:02:42,147 - INFO - login failed
+2024-08-28 12:12:48,352 - INFO - Starting login process
+2024-08-28 12:12:55,575 - INFO - login failed
+2024-08-28 12:23:01,757 - INFO - Starting login process
+2024-08-28 12:23:08,902 - INFO - login failed
+2024-08-28 12:33:15,149 - INFO - Starting login process
+2024-08-28 12:33:22,351 - INFO - login failed
+2024-08-28 12:43:28,555 - INFO - Starting login process
+2024-08-28 12:43:35,769 - INFO - login failed
+2024-08-28 12:53:41,947 - INFO - Starting login process
+2024-08-28 12:53:50,089 - INFO - login failed
+2024-08-28 13:03:56,314 - INFO - Starting login process
+2024-08-28 13:04:03,602 - INFO - login failed
+2024-08-28 13:14:09,810 - INFO - Starting login process
+2024-08-28 13:14:16,843 - INFO - login failed
+2024-08-28 13:24:23,049 - INFO - Starting login process
+2024-08-28 13:24:30,150 - INFO - login failed
+2024-08-28 13:34:36,341 - INFO - Starting login process
+2024-08-28 13:34:43,697 - INFO - login failed
+2024-08-28 13:44:49,894 - INFO - Starting login process
+2024-08-28 13:44:57,144 - INFO - login failed
+2024-08-28 13:55:03,353 - INFO - Starting login process
+2024-08-28 13:55:11,780 - INFO - login failed
+2024-08-28 14:05:17,961 - INFO - Starting login process
+2024-08-28 14:05:25,109 - INFO - login failed
+2024-08-28 14:15:31,289 - INFO - Starting login process
+2024-08-28 14:15:38,542 - INFO - login failed
+2024-08-28 14:25:44,702 - INFO - Starting login process
+2024-08-28 14:25:51,861 - INFO - login failed
+2024-08-28 14:35:58,058 - INFO - Starting login process
+2024-08-28 14:36:05,307 - INFO - login failed
+2024-08-28 14:46:11,483 - INFO - Starting login process
+2024-08-28 14:46:18,830 - INFO - login failed
+2024-08-28 14:56:25,027 - INFO - Starting login process
+2024-08-28 14:56:33,338 - INFO - login failed
+2024-08-28 15:06:39,550 - INFO - Starting login process
+2024-08-28 15:06:46,888 - INFO - login failed
+2024-08-28 15:16:53,106 - INFO - Starting login process
+2024-08-28 15:17:00,322 - INFO - login failed
+2024-08-28 15:27:06,498 - INFO - Starting login process
+2024-08-28 15:27:13,965 - INFO - login failed
+2024-08-28 15:37:20,153 - INFO - Starting login process
+2024-08-28 15:37:27,359 - INFO - login failed
+2024-08-28 15:47:33,567 - INFO - Starting login process
+2024-08-28 15:47:40,830 - INFO - login failed
+2024-08-28 15:57:47,026 - INFO - Starting login process
+2024-08-28 15:57:55,341 - INFO - login failed
+2024-08-28 16:08:01,563 - INFO - Starting login process
+2024-08-28 16:08:08,882 - INFO - login failed
+2024-08-28 16:18:15,055 - INFO - Starting login process
+2024-08-28 16:18:22,358 - INFO - login failed
+2024-08-28 16:28:28,514 - INFO - Starting login process
+2024-08-28 16:28:35,781 - INFO - login failed
+2024-08-28 16:38:41,962 - INFO - Starting login process
+2024-08-28 16:38:49,022 - INFO - login failed
+2024-08-28 16:48:55,212 - INFO - Starting login process
+2024-08-28 16:49:02,668 - INFO - login failed
+2024-08-28 16:59:08,864 - INFO - Starting login process
+2024-08-28 16:59:17,048 - INFO - login failed
+2024-08-28 17:09:23,231 - INFO - Starting login process
+2024-08-28 17:09:30,761 - INFO - login failed
+2024-08-28 17:19:36,950 - INFO - Starting login process
+2024-08-28 17:19:44,402 - INFO - login failed
+2024-08-28 17:29:50,626 - INFO - Starting login process
+2024-08-28 17:29:58,211 - INFO - login failed
+2024-08-28 17:40:04,420 - INFO - Starting login process
+2024-08-28 17:40:11,835 - INFO - login failed
+2024-08-28 17:50:18,043 - INFO - Starting login process
+2024-08-28 17:50:25,425 - INFO - login failed
+2024-08-28 18:00:31,617 - INFO - Starting login process
+2024-08-28 18:00:40,004 - INFO - login failed
+2024-08-28 18:10:46,201 - INFO - Starting login process
+2024-08-28 18:10:53,607 - INFO - login failed
+2024-08-28 18:20:59,779 - INFO - Starting login process
+2024-08-28 18:21:07,077 - INFO - login failed
+2024-08-28 18:31:13,280 - INFO - Starting login process
+2024-08-28 18:31:20,662 - INFO - login failed
+2024-08-28 18:41:26,826 - INFO - Starting login process
+2024-08-28 18:41:34,083 - INFO - login failed
+2024-08-28 18:51:40,244 - INFO - Starting login process
+2024-08-28 18:51:47,442 - INFO - login failed
+2024-08-28 19:01:53,638 - INFO - Starting login process
+2024-08-28 19:02:02,810 - INFO - login failed
+2024-08-28 19:12:09,001 - INFO - Starting login process
+2024-08-28 19:12:16,309 - INFO - login failed
+2024-08-28 19:22:22,468 - INFO - Starting login process
+2024-08-28 19:22:29,768 - INFO - login failed
+2024-08-28 19:32:35,971 - INFO - Starting login process
+2024-08-28 19:32:43,280 - INFO - login failed
+2024-08-28 19:42:49,468 - INFO - Starting login process
+2024-08-28 19:42:56,546 - INFO - login failed
+2024-08-28 19:53:02,768 - INFO - Starting login process
+2024-08-28 19:53:09,969 - INFO - login failed
+2024-08-28 20:03:16,139 - INFO - Starting login process
+2024-08-28 20:03:24,250 - INFO - login failed
+2024-08-28 20:13:30,391 - INFO - Starting login process
+2024-08-28 20:13:37,680 - INFO - login failed
+2024-08-28 20:23:43,866 - INFO - Starting login process
+2024-08-28 20:23:51,167 - INFO - login failed
+2024-08-28 20:33:57,365 - INFO - Starting login process
+2024-08-28 20:34:04,532 - INFO - login failed
+2024-08-28 20:44:10,744 - INFO - Starting login process
+2024-08-28 20:44:18,104 - INFO - login failed
+2024-08-28 20:54:24,314 - INFO - Starting login process
+2024-08-28 20:54:31,677 - INFO - login failed
+2024-08-28 21:04:37,857 - INFO - Starting login process
+2024-08-28 21:04:47,069 - INFO - login failed
+2024-08-28 21:14:53,212 - INFO - Starting login process
+2024-08-28 21:15:00,516 - INFO - login failed
+2024-08-28 21:25:06,731 - INFO - Starting login process
+2024-08-28 21:25:14,021 - INFO - login failed
+2024-08-28 21:35:20,238 - INFO - Starting login process
+2024-08-28 21:35:27,505 - INFO - login failed
+2024-08-28 21:45:33,699 - INFO - Starting login process
+2024-08-28 21:45:41,023 - INFO - login failed
+2024-08-28 21:55:47,225 - INFO - Starting login process
+2024-08-28 21:55:54,375 - INFO - login failed
+2024-08-28 22:06:00,577 - INFO - Starting login process
+2024-08-28 22:06:08,832 - INFO - login failed
+2024-08-28 22:16:15,038 - INFO - Starting login process
+2024-08-28 22:16:22,290 - INFO - login failed
+2024-08-28 22:26:28,493 - INFO - Starting login process
+2024-08-28 22:26:35,728 - INFO - login failed
+2024-08-28 22:36:41,914 - INFO - Starting login process
+2024-08-28 22:36:49,208 - INFO - login failed
+2024-08-28 22:46:55,413 - INFO - Starting login process
+2024-08-28 22:47:02,806 - INFO - login failed
+2024-08-28 22:57:08,998 - INFO - Starting login process
+2024-08-28 22:57:16,265 - INFO - login failed
+2024-08-28 23:07:22,466 - INFO - Starting login process
+2024-08-28 23:07:31,008 - INFO - login failed
+2024-08-28 23:17:37,223 - INFO - Starting login process
+2024-08-28 23:17:44,560 - INFO - login failed
+2024-08-28 23:27:50,761 - INFO - Starting login process
+2024-08-28 23:27:58,097 - INFO - login failed
+2024-08-28 23:38:04,247 - INFO - Starting login process
+2024-08-28 23:38:11,586 - INFO - login failed
+2024-08-28 23:48:17,823 - INFO - Starting login process
+2024-08-28 23:48:25,223 - INFO - login failed
+2024-08-28 23:58:31,405 - INFO - Starting login process
+2024-08-28 23:58:39,010 - INFO - login failed
+2024-08-29 00:08:45,191 - INFO - Starting login process
+2024-08-29 00:08:54,969 - INFO - login failed
+2024-08-29 00:19:01,269 - INFO - Starting login process
+2024-08-29 00:19:08,745 - INFO - login failed
