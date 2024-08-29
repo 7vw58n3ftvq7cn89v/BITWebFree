@@ -158,6 +158,8 @@ def login(username, password):
 
 if __name__ == "__main__":
     credentials = get_credentials()
+    # 弹出窗口“开始运行脚本！”
+    messagebox.showinfo("提示", "开始自动登录校园网！")
     while True:
         if os.path.exists(exit_flag_file):
             logging.info("Exit flag detected. Exiting program.")
